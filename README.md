@@ -25,13 +25,13 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RadhikaKapoor383&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RadhikaKapoor383&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=RadhikaKapoor383&theme=default_repocard&hide_border=gray&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RadhikaKapoor383&theme=default_repocard&hide_border=false)<br/>
 
 ---
 
 ## 📈 Most Used Languages
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RadhikaKapoor383&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RadhikaKapoor383&theme=default_repocard&hide_border=gray&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
