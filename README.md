@@ -36,7 +36,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RadhikaKapoor383&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RadhikaKapoor383&theme=tokiyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
