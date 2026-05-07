@@ -1,21 +1,21 @@
-<h1 align="center">Hello 👋, I'm Radhika Kapoor</h1>
-<h3 align="center">💡 Aspiring AI/ML Engineer | Frontend Developer</h3>
+<h1 align="center">Hello, I'm Radhika Kapoor</h1>
+<h3 align="center"> Aspiring AI/ML Engineer | Frontend Developer</h3>
 
 ---
 
-## 💫 About Me
-✨ Turning data into meaningful solutions  
-🤖 Passionate about Artificial Intelligence & Machine Learning  
-🧠 Strong foundation in Java & Data Structures  
-📊 Exploring datasets, models & real-world problems  
-💻 Frontend enthusiast + problem solver  
-🚀 Driven by curiosity and continuous learning  
+## About Me
+Turning data into meaningful solutions  
+Passionate about Artificial Intelligence & Machine Learning  
+Strong foundation in Java & Data Structures  
+Exploring datasets, models & real-world problems  
+Frontend enthusiast + problem solver  
+Driven by curiosity and continuous learning  
 
 ---
 
 ## 🌐 Socials:
-💼 LinkedIn: https://www.linkedin.com/in/radhika-kapoor2005/  
-💻 GitHub: https://github.com/RadhikaKapoor383  
+LinkedIn: https://www.linkedin.com/in/radhika-kapoor2005/  
+GitHub: https://github.com/RadhikaKapoor383  
 
 ---
 
@@ -24,21 +24,21 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RadhikaKapoor383&theme=default_repocard&hide_border=gray&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RadhikaKapoor383&theme=default_repocard&hide_border=false)<br/>
 
 ---
 
-## 📈 Most Used Languages
+## Most Used Languages
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RadhikaKapoor383&theme=default_repocard&hide_border=gray&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RadhikaKapoor383&theme=tokiyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## ✨ Quote
-_"Learning never exhausts the mind — it fuels innovation."_ 🚀
+_"Learning never exhausts the mind — it fuels innovation."_
