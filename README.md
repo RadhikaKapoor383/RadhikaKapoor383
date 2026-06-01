@@ -110,7 +110,7 @@ GitHub: https://github.com/RadhikaKapoor383
 ---
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RadhikaKapoor383&theme=tokiyonight&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy-radhika-kapoors-projects.vercel.app/?username=RadhikaKapoor383&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
