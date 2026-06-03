@@ -89,7 +89,7 @@ GitHub: https://github.com/RadhikaKapoor383
 
 ---
 
-## 🔥 Contribution Graph
+## Contribution Graph
  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RadhikaKapoor383&theme=tokyo-night&hide_border=true)
 
