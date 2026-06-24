@@ -19,6 +19,19 @@ GitHub: https://github.com/RadhikaKapoor383
 
 ---
 
+## 📂 Featured Projects
+
+### [Flood Evacuation and Rescue Management System](https://github.com/RadhikaKapoor383)
+An AI-powered flood rescue system that combines pathfinding algorithms and machine learning models to classify risk zones and assist in real-time evacuation and rescue operations.
+
+### [Stock Vision](https://github.com/RadhikaKapoor383/Stock-Vision)
+A real-time stock market dashboard built with React that provides live stock prices, interactive charts, portfolio tracking, and watchlist management using financial APIs.
+
+### [CommerceHub](https://github.com/RadhikaKapoor383)
+A modern e-commerce admin dashboard featuring product, order, customer, inventory, and analytics management with a responsive and user-friendly interface.
+
+---
+
 ## 💻 Programming Languages
  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
