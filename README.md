@@ -121,4 +121,4 @@ A modern e-commerce admin dashboard featuring product, order, customer, inventor
 ---
 
 ## ✨ Quote
-_"Learning never exhausts the mind — it fuels innovation."_
+_"Learning never exhausts the mind — it fuels innovation"_
