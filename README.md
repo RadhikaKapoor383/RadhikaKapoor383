@@ -9,12 +9,12 @@
 ---
 
 ## About Me
-Turning data into meaningful solutions  
-Passionate about Artificial Intelligence & Machine Learning  
-Strong foundation in Java & Data Structures  
-Exploring datasets, models & real-world problems  
-Frontend enthusiast + problem solver  
-Driven by curiosity and continuous learning   
+Turning data into meaningful solutions.
+Passionate about Artificial Intelligence & Machine Learning.  
+Strong foundation in Java & Data Structures.  
+Exploring datasets, models & real-world problems.  
+Frontend enthusiast + problem solver.  
+Driven by curiosity and continuous learning.   
 
 ---
 
