@@ -145,13 +145,17 @@ A modern e-commerce admin dashboard for managing products, orders, customers, in
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RadhikaKapoor383&theme=tokyo-night&hide_border=true)
 
 ## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/RadhikaKapoor383/RadhikaKapoor383/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RadhikaKapoor383/RadhikaKapoor383/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
 ## 💻 Most Used Languages
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RadhikaKapoor383&theme=tokyonight&hide_border=gray&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏅 GitHub Trophies
-<img src="./trophy.svg" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RadhikaKapoor383/RadhikaKapoor383/output/trophy.svg" alt="GitHub Trophies">
+</p>
 
 ---
 
