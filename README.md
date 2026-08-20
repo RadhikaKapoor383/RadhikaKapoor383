@@ -146,7 +146,7 @@ A modern e-commerce admin dashboard for managing products, orders, customers, in
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RadhikaKapoor383/RadhikaKapoor383/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="./snake.svg" alt="Contribution Snake">
 </p>
 
 ## 💻 Most Used Languages
@@ -154,7 +154,7 @@ A modern e-commerce admin dashboard for managing products, orders, customers, in
 
 ## 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RadhikaKapoor383/RadhikaKapoor383/output/trophy.svg" alt="GitHub Trophies">
+  <img src="./trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
