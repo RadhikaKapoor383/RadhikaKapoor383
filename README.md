@@ -151,7 +151,7 @@ A modern e-commerce admin dashboard for managing products, orders, customers, in
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RadhikaKapoor383&theme=tokyonight&hide_border=gray&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏅 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RadhikaKapoor383&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./trophy.svg" alt="GitHub Trophies" />
 
 ---
 
