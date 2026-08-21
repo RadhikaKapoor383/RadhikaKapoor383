@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 - 🎓 Final-year Computer Science student at **Sukkur IBA University**
 - 🧠 Exploring **AI/ML** and **Frontend Development**
@@ -28,7 +28,7 @@
 
 ---
 
-## 🔭 Currently
+## Currently
 
 - 🧩 Grinding **DSA in Java** — arrays to graphs to dynamic programming
 - 🤖 Building applied ML projects and exploring RAG pipelines
@@ -37,15 +37,15 @@
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-- 🩺 **HerCare AI** — an AI-powered women's health platform — selected for **SIMPACT '26** at Aga Khan University CIME
+- 🩺 **HerCare AI** — an AI-powered women's health platform 
 - 💼 Completed a Frontend/Full-Stack internship at **Webiators**
 - 📈 96% accuracy flood-risk classifier across 4 ML models on a self-generated 60K-row dataset
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🩺 [HerCare AI](https://github.com/RadhikaKapoor383/HERCARE)
 An AI-powered women's health platform covering 12 health conditions — with a Random Forest PCOS classifier, a Gemini-powered chatbot, and a custom RAG engine for accurate, bilingual (English/Roman Urdu) health guidance.
@@ -133,7 +133,7 @@ A modern e-commerce admin dashboard for managing products, orders, customers, in
 
 </div>
 
-## 🧠 LeetCode Stats
+##  LeetCode Stats
 
 <div align="center">
 
@@ -144,7 +144,7 @@ A modern e-commerce admin dashboard for managing products, orders, customers, in
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RadhikaKapoor383&theme=tokyo-night&hide_border=true)
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
   <img src="./snake.svg" alt="Contribution Snake">
 </p>
